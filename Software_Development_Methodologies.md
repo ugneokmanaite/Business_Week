@@ -108,4 +108,4 @@ _All these allow good decisions to be made through inspecting and adapting_
 - Sprint Planning : A time boxed event occurs at the beginning of a sprint where the team determined the product backlog items they will work on during that sprint
 - Daily Scrum: 15 min time-boxed event for development team to synchronise activities and create a plan for next 24 horus
 - Sprint Review: A time-boxed event holds at the end of Sprint to inspect the Increment and adapt Product Backlog if needed
-- Sprint Retrospect: A time-boxed event for providing an opportunity for the Scrum Team to inspect itself and create a plan 
+- Sprint Retrospect: A time-boxed event for providing an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be carried out in the next sprint
